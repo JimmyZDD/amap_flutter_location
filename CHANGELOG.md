@@ -1,3 +1,10 @@
+## 【3.0.1】- 2025-06-09
+更新项目配置和命名空间
+
+- 添加Android库的命名空间配置
+- 清理AndroidManifest中的冗余包声明
+- 更新.project文件中的项目名称和构建配置
+
 ## 【3.0.0】- 2021-11-23
 * 增加更新隐私合规updatePrivacyShow、updatePrivacyAgree
 * 注意：updatePrivacyShow、updatePrivacyAgree需要在调用所有的定位接口之前调用  
